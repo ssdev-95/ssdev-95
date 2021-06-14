@@ -10,13 +10,15 @@ I'm Salomao Souza. I'm from Brazil, I love learning new things and I'm ready for
 ## ☣️ Technologies
 Knowledge:
 - Mobile development: **Java**
+- Web development: **NextJS**
 - Version Control: **Git**
 ## ☣️ Courses:
 - Currently on 6&ordm; semester of **Electrical Engineering** (5-year course)
 ## ☣️ Currently:
 - Learning (and loving) **HTML 5, CSS 3 and Javascript**
 ## ☣️Planning On:
-- Learning **ReactJs**
+- Learning **VueJS**
+- Learning **Angular 7++**
 - Learning **React Native**
 - Learning **NodeJs**
 ## ☣️ Hello World!!
