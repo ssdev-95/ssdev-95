@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Salomao%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salomao-vasconcelos/)](https://www.linkedin.com/in/salomao-vasconcelos/) [![Gmail Badge](https://img.shields.io/badge/-souza95salomao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souza95salomao@gmail.com)](mailto:souza95salomao@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Salomao%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salomao-vasconcelos/)](https://www.linkedin.com/in/salomao-vasconcelos/)
 
 <p align="center">☣️</p>
 
