@@ -29,3 +29,5 @@ Knowledge:
 [![xSallus github stats](https://github-readme-stats.vercel.app/api?username=xSallus)](https://github.com/anuraghazra/github-readme-stats)
 
 ```☣️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
+
+ ![Snake animation](https://github.com/xSallus/xSallus/blob/output/github-contribution-grid-snake.svg)
