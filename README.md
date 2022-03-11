@@ -20,7 +20,7 @@ Knowledge:
 - Learning **VueJS**
 ## ☣️Planning On:
 - Learning **Angular 7++**
-- Learning **Next Framework**
+- Learning **Nuxt Framework**
 ## ☣️ Hello World!!
 - ⚡ Ask me about anything and everything.
 - ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, [SoloLearn](https://sololearn.com/) and Google XD;
