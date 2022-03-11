@@ -9,17 +9,18 @@
 I'm Salomao Souza. I'm from Brazil, I love learning new things and I'm ready for challenges!
 ## ☣️ Technologies
 Knowledge:
-- Learning (and loving) **HTML 5, CSS 3 and Javascript**
-- Mobile development: **Java**
-- Web development: **NextJS**
+- Learning (and loving) **Web development**
+- Mobile development: **React Native**
+- Web development: **NextJS, VueJS**
 - Version Control: **Git**
+- Backend development: **NodeJS**
 ## ☣️ Courses:
-- Currently on 6&ordm; semester of **Electrical Engineering** (5-year course)
+- Currently on 6&ordm; semester of **Electrical Engineering** (5-year course, currently paused)
 ## ☣️ Currently:
-- Learning **React Native**
+- Learning **VueJS**
 ## ☣️Planning On:
 - Learning **Angular 7++**
-- Learning **NodeJs**
+- Learning **Next Framework**
 ## ☣️ Hello World!!
 - ⚡ Ask me about anything and everything.
 - ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, [SoloLearn](https://sololearn.com/) and Google XD;
