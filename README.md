@@ -15,13 +15,14 @@ Knowledge:
 - Version Control: **Git**
 - Backend development: **NodeJS**
 ## ☣️ Courses:
-- Currently on 6&ordm; semester of **Electrical Engineering** (5-year course, currently paused)
+- **Electrical Engineering**, 6&ordm; semester (5-year course, currently paused)
+- ReactJS Trial of Ignite - Rocketseat
 ## ☣️ Currently:
 - Learning **VueJS**
 ## ☣️Planning On:
 - Learning **Angular 7++**
 - Learning **Nuxt Framework**
-## ☣️ Hello World!!
+## ☣️ Hello World!
 - ⚡ Ask me about anything and everything.
 - ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, [SoloLearn](https://sololearn.com/) and Google XD;
 
