@@ -28,7 +28,7 @@ Knowledge:
 
 <p align="center">☣️</p>
 
-[![xSallus github stats](https://github-readme-stats.vercel.app/api?username=xSallus)](https://github.com/anuraghazra/github-readme-stats)
-[![xSallus github stats](https://github-readme-stats.vercel.app/api/top-langs?username=xSallus)](https://github.com/anuraghazra/github-readme-stats)
+[![xSallus github stats](https://github-readme-stats.vercel.app/api?username=xSallus&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![xSallus github stats](https://github-readme-stats.vercel.app/api/top-langs?username=xSallus&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ```☣️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
