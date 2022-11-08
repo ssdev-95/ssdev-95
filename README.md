@@ -6,7 +6,8 @@
 
 <p align="center">☣️</p>
 
-I'm Salomao Souza. I'm from Brazil, I love learning new things and I'm ready for challenges!
+My name is Salomao Souza and i'm from Brazil. I love learning new things and I'm ready for challenges!
+
 ## ☣️ Technologies
 Knowledge:
 - Learning (and loving) **Web development**
