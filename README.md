@@ -32,4 +32,6 @@ Knowledge:
 [![xSallus github stats](https://github-readme-stats.vercel.app/api?username=xSallus&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 [![xSallus github stats](https://github-readme-stats.vercel.app/api/top-langs?username=xSallus&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
+[Salomão Vasconcelos - 2022](https://salomaovasconcelos.vercel.app)
+
 ```☣️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
