@@ -12,17 +12,14 @@ My name is Salomao Souza and i'm from Brazil. I love learning new things and I'm
 Knowledge:
 - Learning (and loving) **Web development**
 - Mobile development: **React Native**
-- Web development: **NextJS, VueJS**
+- Web development: **ReactJS, VueJS**
 - Version Control: **Git**
 - Backend development: **NodeJS**
 ## ☣️ Courses:
 - **Electrical Engineering**, 6&ordm; semester (5-year course, currently paused)
 - ReactJS Trial of Ignite - Rocketseat
 ## ☣️ Currently:
-- Learning **VueJS**
-## ☣️Planning On:
-- Learning **Angular 7++**
-- Learning **Nuxt Framework**
+- Learning **Angular**
 ## ☣️ Hello World!
 - ⚡ Ask me about anything and everything.
 - ⚡ Fun facts: I've been learning everything related to programming through YouTube channels, [SoloLearn](https://sololearn.com/) and Google XD;
