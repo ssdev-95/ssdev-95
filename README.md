@@ -7,8 +7,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-03000d?style=for-the-badge&logo=saloma&logoColor=f0f2f5)](https://salomaovasconcelos.vercel.app)
 
-[![Vakinha](https://img.shields.io/badge/Help%20me%20buy%20a%20new%20laptop-4FC08D?style=for-the-badge&logo=cow&logoColor=f0f2f5)](https://www.vakinha.com.br/3413312)
-
 ### A passionate frontend developer.
 > ~~who also know how to shake ur world using mobile apps and apis too..~~
 
@@ -24,7 +22,7 @@
 
 ### Currently learning
 
-![Angular](https://img.shields.io/badge/angular-f0f2f5?style=for-the-badge&logo=angular&logoColor=red)
+![Java](https://img.shields.io/badge/java-f0f2f5?style=for-the-badge&logo=java&logoColor=red)
 
 [![xSallus github stats](https://github-readme-stats.vercel.app/api?username=xSallus&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
